@@ -1,0 +1,14 @@
+If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+The listener has a high danceability index, with an average of above 0.6 for most songs
+(indicating an enjoyment of danceable songs). The energy index ranges between values of
+approximately 0.4 to 0.7 (indicating an enjoyment of songs with a moderate energy level).
+Finally, the valence index remains low, mostly not exceeding 0.4 (indicating a preference
+for songs with low valence).
+
+Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener.
+What better ways of calculating this aura would you propose?
+The way I have determined these conclusions may not accurately represent the listener's
+preferences because I have relied solely on my own interpretation of the table.
+To make it more precise, I would suggest taking an average of each representative index
+(by summing all the results and dividing by 100). This way, we would obtain a more accurate
+ proportion for each of the 3 aspects.

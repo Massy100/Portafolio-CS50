@@ -1,0 +1,61 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Because it was the slowest sort in almost all the cases, depending on the quantity of numbers,
+it only had adventage with small quantities, but when you add more numbers it always lost.
+
+sort2 uses: Merge Sort
+
+How do you know?: Because it was the faster sort in every case, Merge is always the faster sort.
+
+sort3 uses: Selection Sort
+
+How do you know?: Becuase it is the only sort remaining.
+
+
+Here my data with real time:
+
+sorted5000.txt
+sort1: 0.073 s
+sort2: 0.044 s
+sort3: 0.088 s
+
+sorted10000.txt
+sort1: 0.122 s
+sort2: 0.091 s
+sort3: 0.146 s
+
+sorted50000.txt
+sort1: 8.617 s
+sort2: 1.455 s
+sort3: 3.540 s
+
+random5000.txt
+sort1: 0.094 s
+sort2: 0.071 s
+sort3: 0.049 s
+
+random10000.txt
+sort1: 0.232 s
+sort2: 0.103 s
+sort3: 0.133 s
+
+random50000.txt
+sort1: 10.097 s
+sort2: 3.622 s
+sort3: 4.170 s
+
+reversed5000.txt
+sort1: 0.098 s
+sort2: 0.042 s
+sort3: 0.057 s
+
+random10000.txt
+sort1: 0.230 s
+sort2: 0.071 s
+sort3: 0.162 s
+
+random50000.txt
+sort1: 8.884 s
+sort2: 2.379 s
+sort3: 3.993 s
+
